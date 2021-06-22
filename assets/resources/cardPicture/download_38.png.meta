@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "601e516d-8e7c-464f-86d4-bc7f2879d2fd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "download_38": {
+      "ver": "1.0.4",
+      "uuid": "446caa41-bbbd-4c60-8c22-b27061b9920a",
+      "rawTextureUuid": "601e516d-8e7c-464f-86d4-bc7f2879d2fd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 128,
+      "height": 173,
+      "rawWidth": 128,
+      "rawHeight": 173,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
