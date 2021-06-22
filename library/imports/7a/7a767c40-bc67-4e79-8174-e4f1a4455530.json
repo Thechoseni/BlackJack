@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buttonDeal",
+    "texture": "e0ce4006-8e8e-4236-a3f7-7ded22572e79",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      379,
+      159
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      379,
+      159
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

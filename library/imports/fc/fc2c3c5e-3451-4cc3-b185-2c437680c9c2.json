@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buttonComputerWin",
+    "texture": "59f037d6-2637-485f-90dc-ef36f1029e3e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      379,
+      159
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      379,
+      159
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

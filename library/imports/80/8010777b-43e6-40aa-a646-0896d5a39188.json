@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buttonPlayerHnadBoom",
+    "texture": "d9b8ef0c-4e33-4d79-9f5d-b8a7815b1339",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      379,
+      159
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      379,
+      159
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

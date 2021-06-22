@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "playBut",
+    "texture": "1fdd5bb5-c4fe-496b-b4df-b808f57ab142",
+    "atlas": "",
+    "rect": [
+      15,
+      1,
+      176,
+      95
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      204,
+      97
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

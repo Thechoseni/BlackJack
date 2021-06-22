@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bottomPour",
+    "texture": "e3ec08f5-9813-4f14-9d0e-423f77a13cb7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      379,
+      159
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      379,
+      159
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
